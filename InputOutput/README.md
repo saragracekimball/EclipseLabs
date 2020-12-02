@@ -2,6 +2,8 @@
 
 ## Part 1 - Output
 
+Make sure the file <code>output.py</code> is selected in the text editor to the right.
+
 The function <Code>print()</Code> will output to the terminal (also called the console).
 
 Whatever is inside the parenthesis will be printed to the screen.
@@ -42,7 +44,7 @@ The print function can also print out multiple items if they are separated by co
 
 ## Part 3 - Input
 
-Make sure to open the input.py file. In order to do so, click on the folder icon in the top left corner of the text editor and select the file called input.py.
+Make sure the <code>input.py</code> file is open in the text editor on the right.
 
 What if we want to get our data from the current user? We can use a function called <code>input()</code>. The input function prompts the user, then waits for the user to type something in the terminal window, followed by the <code>[Enter]</code> key. Then the input function "returns" whatever the user typed so that it can be stored in a variable.
 
