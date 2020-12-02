@@ -42,6 +42,8 @@ The print function can also print out multiple items if they are separated by co
 
 ## Part 3 - Input
 
+Make sure to open the input.py file. In order to do so, click on the folder icon in the top left corner of the text editor and select the file called input.py.
+
 What if we want to get our data from the current user? We can use a function called <code>input()</code>. The input function prompts the user, then waits for the user to type something in the terminal window, followed by the <code>[Enter]</code> key. Then the input function "returns" whatever the user typed so that it can be stored in a variable.
 
 For example:
