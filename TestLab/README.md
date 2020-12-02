@@ -17,4 +17,3 @@ Example:
 ### To run the file output.py, go to the terminal and use the following command: 
 > $ python output.py
 
-{% submit %}
