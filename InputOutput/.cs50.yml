@@ -1,4 +1,4 @@
 lab50: 
   files:
-    - !include output.py
     - !include input.py
+    - !include output.py
