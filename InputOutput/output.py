@@ -5,7 +5,7 @@ print("Hello World!")
 
 # create a variable called name with a value of "Murphy"
 
-# print out the value stored in the variable age (which is 10)
+# print out the value stored in the variable name (which should be "Murphy")
 
 
 # use the print statement to print multiple things to the screen
