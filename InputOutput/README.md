@@ -50,4 +50,16 @@ For example:
 
 Edit the file input.py in the text editor so that the program will
 1. allow the user to input their name (use the input function)
-2. print precisely <code>hello, \<name></code> where name is the name the user inputted.
+2. print precisely <code>hello, [name] </code> where name is the name the user inputted.
+
+{% spoiler "Hint" %}
+
+To get the desired output, use the last line of the output.py file
+
+{% endspoiler %}
+
+{% spoiler "Solution" %}
+
+    print("Hello,", name)
+
+{% endspoiler %}
