@@ -1,5 +1,53 @@
-# Lab Title
-## Lab subsection 1
+# Input/Output Assignment
 
-In this lab, you should do input and output and submit it
-hello
+## Part 1 - Output
+
+The function <Code>print()</Code> will output to the terminal (also called the console).
+
+Whatever is inside the parenthesis will be printed to the screen.
+
+* **Remember to use quotation marks**
+
+Example:
+
+    print("Hello and welcome to Eclipse")
+
+### To run the file output.py, go to the terminal and use the following command: 
+> $ python output.py
+
+{% next %}
+
+## Part 2 - Variables
+
+Variables store data. To assign a value to a variable use the format
+
+    name = "Ryan"
+
+The variable will then be stored in the computer for the rest of the program.
+
+We can print out the value of a variable using <code>print()</code>
+
+    print(name)
+
+The print function can also print out multiple items if they are separated by commas.
+
+    print("My name is", name)
+
+### To try it out:
+1. add the lines of code to the file output.py
+2. use the same command as above:
+> $ python output.py
+
+{% next %}
+
+## Part 3 - Input
+
+What if we want to get our data from the current user? We can use a function called <code>input()</code>. The input function waits for the user to type something in the terminal window, followed by the <code>[Enter]</code> key, and then "returns" whatever the user typed so that it can be stored in a variable.
+
+For example:
+
+    username = input()
+
+Edit the file input.py in the text editor so that the program will
+1. allow the user to input their name (use the input function)
+2. print precisely <code>hello, \<name></code> where name is the name the user inputted.
