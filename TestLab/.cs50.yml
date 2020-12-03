@@ -1,2 +1,4 @@
 lab50: true
-submit50: true
+submit50:
+   - files:
+        !include hello.py
