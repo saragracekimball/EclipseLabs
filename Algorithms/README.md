@@ -1,6 +1,6 @@
 # Algorithms Assignment
 
-## Part 1 - What is an algorithms?
+## Part 1 - What is an algorithm?
 
 An algorithm is:  *a set of steps to solve a problem*.
 
