@@ -75,4 +75,7 @@ Write a program called **dorm.py** which meets the following criteria:
 1. ask the user a question like "What dorm do you live in?"
 2. print the name of the dorm to the console along with a message which welcomes them back to campus.
 
+Download this file using the <code>...</code> next to the file name (in the folder).
+Upload the file to canvas under the assignment **01 Hello World.**
+
 To restart the lab, you can use the reset button in the top right corner (you will lose all progress)
