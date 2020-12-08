@@ -1,6 +1,6 @@
-# Input/Output Assignment
+# Selection/Conditionals Assignment
 
-## Part 1 - Output
+## Part 1 - Conditionals
 
 Make sure the file <code>output.py</code> is selected in the text editor to the right.
 
