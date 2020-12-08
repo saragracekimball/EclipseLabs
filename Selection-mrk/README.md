@@ -2,20 +2,24 @@
 
 ## Part 1 - Conditionals
 
-Make sure the file <code>output.py</code> is selected in the text editor to the right.
+Make sure the file <code>select1.py</code> is selected in the text editor to the right.
 
-The function <Code>print()</Code> will output to the terminal (also called the console).
+Just as in life, there are occasions when we will prepare to execute a plan and we must decide whether or not to do so.
 
-Whatever is inside the parenthesis will be printed to the screen.
+The following **selection** statement will allow us to select whether or not to execute a body of code (indented the same depth).
 
-* **Remember to use quotation marks**
+    <Code>if(</Code>**Boolean expression**<Code>):</Code> 
+
+* When the **Boolean expression** inside the parentheses is <Code>True</Code> the body of code **will** be executed.
+
+* When the **Boolean expression** inside the parentheses is <Code>False</Code> the body of code **will NOT** be executed.
 
 Example:
 
     print("Hello and welcome to Eclipse")
 
-### To run the file output.py, go to the terminal and use the following command: 
-> $ python output.py
+### As always, to run the file select1.py, go to the terminal and use the following command: 
+> $ python select1.py
 
 {% next %}
 

@@ -2,8 +2,8 @@
 #     if the boolean expression is true
 
 if (True):
-    print ("Since our boolean expression is TRUE, this will print!")
+    print ("Since our boolean expression is True, this will print!")
 
 
 if (False):
-    print ("Since our boolean expression is FALSE, this will never print")
+    print ("Since our boolean expression is False, this will never print")
