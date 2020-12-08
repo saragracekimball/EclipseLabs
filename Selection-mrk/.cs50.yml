@@ -1,3 +1,5 @@
 lab50: 
   files:
-    - !include output.py
+    - !include select1.py
+    - !include select2.py
+    
