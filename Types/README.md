@@ -2,14 +2,13 @@
 
 ## Part 1 - Types of variables
 In python, there are 4 (main) primitive variable types. They are:
-
 1. <code>string</code> - a string is a sequence of characters wrapped in quotes
 
-2. <code>int</code> - an int can be positive, negative, or zero, but has no decimal part
+2. <code>int</code> - an int (integer) can be positive, negative, or zero, but has no decimal part
 
 3. <code>float</code> - a float a number with a decimal part
 
-4. <code>bool</code> - a bool can only be True or False (without quotes)
+4. <code>bool</code> - a bool (Boolean) can only be **True** or **False** (without quotes)
 
 These variables are shown in the file called <code>variables.py</code>
 
