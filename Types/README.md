@@ -22,7 +22,7 @@ Below is a list of common operators used in mathematics. In python, these operat
 
 **Reminder:** the two type of variables which store numbers are **int** and **float**!
 
-![Mathematical Operators](operators.png)
+![Mathematical Operators](operators.PNG)
 
 {% next %}
 
@@ -36,7 +36,7 @@ Convert that variable from a **string** to a **float** using the following line 
 
 Calculate a value for a new variable called 'y' using the following equation:
 
-![Operator Equation](eqn.png)
+![Operator Equation](eqn.PNG)
 
 {% spoiler "Help"%}
 
