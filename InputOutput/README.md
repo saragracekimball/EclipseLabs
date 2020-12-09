@@ -69,6 +69,8 @@ To get the desired output, use the last line of the output.py file
 
 {% endspoiler %}
 
+{% next %}
+
 ## Part 4 - Your first program
 
 Write a program called **dorm.py** which meets the following criteria:
