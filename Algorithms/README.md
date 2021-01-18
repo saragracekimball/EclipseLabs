@@ -6,7 +6,7 @@ An algorithm is:  *a set of steps to solve a problem*.
 
 Psedocode is:  *steps or instructions written out in english*
 
-For example, if I wanted to make a peanut butter and jelly, one algorithm (in peudocode) could be:
+For example, if I wanted to make a peanut butter and jelly, one algorithm (in pseudocode) could be:
 
     1 get peanut butter, jelly, and bread out
     2 if the peanut butter and jelly are not open:
