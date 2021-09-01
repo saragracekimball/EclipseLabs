@@ -1,6 +1,6 @@
 # Variable Types
 
-## Part 1 - Types of variables
+## Part 1 - Learn - Types of variables
 In python, there are 4 (main) primitive variable types. They are:
 1. <code>string</code> - a string is a sequence of characters wrapped in quotes
 
@@ -30,15 +30,17 @@ Below is a list of common operators used in mathematics. In python, these operat
 {% next %}
 
 
-## Part 4 - Try it yourself
+## Part 3 - Try it yourself
 
-Create a program called <code>operators.py</code> which takes an input from the user and stores it in a variable called 'x'.
+**Step 1:** Create a program called <code>operators.py</code> which takes an input from the user and stores it in a variable called 'x'.
 
-Convert that variable from a **string** to a **float** using the following line of code.
+**Step 2:** Convert that variable from a **string** to a **float** using the following line of code.
 
     x = float(x)
 
-Calculate a value for a new variable called 'y' using the following equation:
+### For reference - use the additional file called input-output.py
+
+**Step 3:** Calculate a value for a new variable called 'y' using the following equation:
 
 ![Operator Equation](eqn.PNG)
 
