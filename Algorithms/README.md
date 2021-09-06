@@ -91,6 +91,6 @@ Use what you have learned about algorithms to write a set of steps to accomplish
 Compute and display the price a person will pay for gas at the gas station. You have the price per gallon and you can get the number of gallons of gas that were purchased, and whether the person pays cash or credit. If the person pays with a credit card, there is an extra charge of 10% of the total price.
 
 Download this file using the <code>...</code> next to the file name (in the folder).
-Upload the file to canvas under the assignment **02 Pseudocode.**
+Upload the file to canvas under the assignment **Pseudocode.**
 
 ### Good Luck!
