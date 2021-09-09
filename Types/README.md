@@ -32,7 +32,7 @@ Below is a list of common operators used in mathematics. In python, these operat
 
 ## Part 3 - Try it yourself
 
-**Step 1:** Create a program called <code>operators.py</code> which takes an input from the user and stores it in a variable called 'x'.
+**Step 1:** Create a **new** program called <code>operators.py</code> which takes an input from the user and stores it in a variable called 'x'.
 
 **Step 2:** Convert that variable from a **string** to a **float** using the following line of code.
 
@@ -58,4 +58,4 @@ Remember to run the file. You should test it with some simple values.
 ## Part 4 - Submit
 
 Download this file using the <code>...</code> next to the file name (in the folder).
-Upload the file to canvas under the assignment **03 Variables.**
+Upload the file to canvas under the assignment **Operators Lab**
