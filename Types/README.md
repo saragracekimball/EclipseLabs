@@ -44,7 +44,7 @@ Below is a list of common operators used in mathematics. In python, these operat
 
 ![Operator Equation](eqn.PNG)
 
-{% spoiler "Help"%}
+{% spoiler "Help - ONLY IF YOU NEED IT"%}
 
     y = 3*((x+2)**3) - 12*x**2
 
