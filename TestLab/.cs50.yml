@@ -1,6 +1,3 @@
 lab50: true
 
-submit50:
-  files:
-     - !exclude "*"
-     - !include hello.py
+check50: true

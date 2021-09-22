@@ -10,7 +10,7 @@ price = 24.99
 # This is a bool
 passed_class = True
 
-# Allows you see the type of a variable
+# Allows you to see the type of a variable
 print(word, "is a variable of type", type(word))
 print(age, "is a variable of type", type(age))
 print(price, "is a variable of type", type(price))
