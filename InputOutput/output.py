@@ -1,11 +1,4 @@
-# prints "Hello World" to the screen
-# note that hello world is a string (in quotes)
+# Line 1 (this line) is a comment - it does not do anything
+
+# Line 4 contains a print statement, which will send output to the terminal when the program is run
 print("Hello World!")
-
-
-# create a variable called name with a value of "Murphy"
-
-# print out the value stored in the variable name (which should be "Murphy")
-
-
-# use the print statement to print multiple things to the screen
