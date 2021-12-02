@@ -1,5 +1,3 @@
-# get the user's name using the input function (make sure it is stored in a variable)
+# create a variable on line 2
 
-name = input("What is your name? ")
-
-print(name)
+# print out the variable on line 3

@@ -37,23 +37,31 @@ After this line of code, *username* will contain whatever the user enters.
 
 Edit the file input.py in the text editor so that the program will
 1. allow the user to input their name (use the input function)
-2. print precisely <code>hello, [name] </code> where [name] is the name the user inputted.
+2. print precisely <code>hello, [name]! </code> where [name] is the name the user inputted.
+
+Example Run:
+```
+What is your name? McGee
+Hello, McGee!
+```
 
 ### To run the file
 > $ python input.py
-
-{% spoiler "Solution" %}
-
-    print("Hello,", name)
-
-{% endspoiler %}
 
 {% next %}
 
 ## Part 3 - Input/Output Program
 
 Write a program called **dorm.py** which meets the following criteria:
-1. ask the user a question like "What dorm do you live in?"
+1. ask the user a question: "What dorm do you live in?"
 2. print the name of the dorm to the console along with a message which welcomes them back to campus.
+
+
+Example Run:
+```
+What is your name? McGee
+What dorm do you live in? Turner
+Hi McGee, have a great year living on Turner
+```
 
 To restart the lab, you can use the reset button in the top right corner (you will lose all progress)
