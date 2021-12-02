@@ -10,11 +10,15 @@ The variable will then be stored in the computer for the duration of the program
 
 We can print out the value of a variable using <code>print()</code>
 
-```print(name)```
+```python
+print(name)
+```
 
 The print function can also print out multiple items if they are separated by commas.
 
-```print("My name is", name)```
+```python
+print("My name is", name)
+```
 
 ### To try it out:
 1. add the lines of code to a file above
@@ -31,7 +35,9 @@ In order to ask the user a question with the <code>input()</code> function, add 
 
 For example:
 
-```username = input("What is your username?")```
+```python
+username = input("What is your username?")
+```
 
 After this line of code, *username* will contain whatever the user enters.
 
@@ -41,7 +47,8 @@ Edit the file input.py in the text editor so that the program will
 
 Example Run:
 
-```What is your name? McGee
+```
+What is your name? McGee
 Hello, McGee!
 ```
 
@@ -59,7 +66,8 @@ Write a program called **dorm.py** which meets the following criteria:
 
 Example Run:
 
-```What is your name? McGee
+```
+What is your name? McGee
 What dorm do you live in? Turner
 Hi McGee, have a great year living on Turner
 ```
