@@ -40,8 +40,8 @@ Edit the file input.py in the text editor so that the program will
 2. print precisely <code>hello, [name]! </code> where [name] is the name the user inputted.
 
 Example Run:
-```
-What is your name? McGee
+
+```What is your name? McGee
 Hello, McGee!
 ```
 
@@ -58,8 +58,8 @@ Write a program called **dorm.py** which meets the following criteria:
 
 
 Example Run:
-```
-What is your name? McGee
+
+```What is your name? McGee
 What dorm do you live in? Turner
 Hi McGee, have a great year living on Turner
 ```
