@@ -2,7 +2,7 @@
 
 ## Part 1 - Entering different types
 
-Begin by running the file to the right.
+### Begin by running the file to the right.
 
 When run, the program should ask the user for a value, then multiply it by 2 and print it out.
 
