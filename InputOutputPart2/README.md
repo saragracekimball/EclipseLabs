@@ -46,6 +46,7 @@ After this line of code, *username* will contain whatever the user enters.
 Edit the file input.py in the text editor so that the program will
 1. allow the user to input their name (use the input function)
 2. print precisely <code>hello, [name]! </code> where [name] is the name the user inputted.
+3. Hint: Look back at part 1 to remind yourself how to print out a variable.
 
 Example of what happens when your program is run:
 
@@ -62,11 +63,11 @@ Hello, McGee!
 ## Part 3 - Input/Output Program
 
 Write a program called **dorm.py** which meets the following criteria:
-1. ask the user a question: "What dorm do you live in?"
+1. ask the user another question: "What dorm do you live in?"
 2. print the name of the dorm to the console along with a message which welcomes them back to campus.
 
 
-Example Run:
+Example of what happens when your program is run:
 
 ```
 What is your name? McGee
