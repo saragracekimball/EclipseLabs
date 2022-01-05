@@ -23,18 +23,10 @@ Example:
 
 {% next %}
 
-## Part 2 - Password Verification
-Create a new file called **passwords.py**
+## Part 2 - Find the max
+Create a new file called **find_max.py** which will find the maximum of two numbers.
 
-Have the user input a password as if they were signing up for an account on a website. Then ask the user to input the same password again to verify.
+## Part 3 - Temperature
 
-If the two passwords match, acknowledge and print "account created".
-
-Otherwise, print "verification failed".
-
-<!-- {% next %} -->
-
-<!-- ## Submit
-
-Download this file using the <code>...</code> next to the file name (in the folder).
-Upload the file to canvas under the assignment **01 Hello World.** -->
+Ask the user to type a temperature in Fahrenheit
+Print either “it’s hot out”, “it’s nice weather”, or “brrr it’s cold” (or some variation thereof) based on the temperature.

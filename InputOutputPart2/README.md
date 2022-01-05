@@ -2,11 +2,13 @@
 
 ## Part 1 - Variables
 
-Variables store data. To assign a value to a variable use the format
+Variables store data. To assign a value to a variable you should use the format below
 
-    name = "Ryan"
+```python
+name = "Ryan"
+```
 
-The variable will then be stored in the computer for the duration of the program.
+The variable will then be stored in the computer for the duration of the program. Any time that we want to access the value we stored, all we have to do is use <code>name</code>, and the computer will automatically insert Ryan. We will see the power of this ability in a little bit.
 
 We can print out the value of a variable using <code>print()</code>
 
@@ -45,7 +47,7 @@ Edit the file input.py in the text editor so that the program will
 1. allow the user to input their name (use the input function)
 2. print precisely <code>hello, [name]! </code> where [name] is the name the user inputted.
 
-Example Run:
+Example of what happens when your program is run:
 
 ```
 What is your name? McGee
@@ -72,4 +74,5 @@ What dorm do you live in? Turner
 Hi McGee, have a great year living on Turner
 ```
 
-To restart the lab, you can use the reset button in the top right corner (you will lose all progress)
+
+Submit your program to the assignment on Canvas.
