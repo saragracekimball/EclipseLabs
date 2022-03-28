@@ -44,10 +44,22 @@ The print function can also print out multiple items if they are separated by co
 
 ## Part 3 - On your own
 
-Write a program to output the following:
+Write a program to do the following:
+
+1. Create variables of the proper types for the following **made up** woodberry student
+
+ - His first and last name
+ - His age in years
+ - The form he is in
+ - His dorm
+ - His current GPA (should be between 0-4)
+
+2. When the program is run, a student profile (match the formatting exactly) should be printed out like the one below:
 
 ```
-**********
-* python *
-**********
+**************************
+* Tom Barnaby - 16
+* 4th form - Walker B
+* Current GPA: 3.41
+**************************
 ```
