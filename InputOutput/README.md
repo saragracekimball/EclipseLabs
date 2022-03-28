@@ -42,6 +42,12 @@ The print function can also print out multiple items if they are separated by co
 
 {% next %}
 
+## Variable Types
+
+![Variable Types](VariableTypes.png)
+
+{% next %}
+
 ## Part 3 - On your own
 
 Write a program to do the following:
@@ -63,3 +69,7 @@ Write a program to do the following:
 * Current GPA: 3.41
 **************************
 ```
+
+3. When you are finished, you should download the file as seen below and upload it to canvas under the assignment.
+
+![Submission Details](Submission.png)
