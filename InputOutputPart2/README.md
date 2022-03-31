@@ -16,16 +16,16 @@ We can print out the value of a variable using <code>print()</code>
 print(name)
 ```
 
-The print function can also print out multiple items if they are separated by commas.
+The print function can also print out multiple items if they are separated by commas or plus signs (+).
 
 ```python
-print("My name is", name)
+print("My name is " + name)
 ```
 
 ### To try it out:
-1. add the lines of code to a file above
+1. add the three lines of code to the file
 2. use the command:
-> $ python output.py
+> $ python input.py
 
 {% next %}
 
@@ -67,13 +67,9 @@ Write a program called **dorm.py** which meets the following criteria:
 2. print the name of the dorm to the console along with a message which welcomes them back to campus.
 
 
-Example of what happens when your program is run:
+Example of what happens when your program is run (user input is highlighted in yellow):
 
-```
-What is your name? McGee
-What dorm do you live in? Turner
-Hi McGee, have a great year living on Turner
-```
+![example program execution](ExampleRunInputPart2.png)
 
 
 Submit your program to the assignment on Canvas.
