@@ -24,7 +24,18 @@ Print either “it’s nice weather”, or “brrr it’s cold” (or some varia
 
 {% next %}
 
-## Part 3 - Schedule
+## Part 3 - Grade System
+
+grades.py
+
+Write a program that takes input as an integer grade from the keyboard and translates it to a letter grade. To gain full credit for this exercise you will need to use <code>elif</code> statements when checking the grade.
+
+1. You must create a flowchart which shows how your grade system works.
+2. Once your flowchart has been approved, you can begin work on creating the code.
+
+{% next %}
+
+## Part 4 - Schedule
 
 alarm.py
 
@@ -32,3 +43,7 @@ From the user - get two things. A day of the week encoded as 0=Sun, 1=Mon, 2=Tue
 
 1. You must create a flowchart which shows how the alarm clock works.
 2. Once your flowchart has been approved, you can begin work on creating the code.
+
+# Submit
+
+Please submit both grades.py and alarm.py to canvas
