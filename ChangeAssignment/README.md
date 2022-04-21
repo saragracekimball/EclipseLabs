@@ -30,5 +30,9 @@ You will receive $57.63 in change.
 3 pennies
 ```
 
+*Hint:* You can use the % symbol to get the remainder from dividing two numbers.
+```
+num = 7 % 5
+print(num) # will output 2 because 2 is the remainder when we divide 7 by 5
+```
 
-{% next %}
